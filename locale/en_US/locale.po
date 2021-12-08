@@ -1,0 +1,35 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "plugins.themes.custom.name"
+msgstr "Custom Theme"
+
+msgid "plugins.themes.custom.description"
+msgstr "Customizable theme."
+
+msgid "plugins.themes.custom.option.sizeLogoSmall"
+msgstr "Logo size (small screens)"
+
+msgid "plugins.themes.custom.option.sizeLogoSmallDescription"
+msgstr "Choose the size of the logo for small screens (px must not be entered)."
+
+msgid "plugins.themes.custom.option.sizeLogoLarge"
+msgstr "Logo size (desktop screens)"
+
+msgid "plugins.themes.custom.option.sizeLogoLargeDescription"
+msgstr "Choose the size of the logo for desktop screens (px must not be entered)."
+
+msgid "plugins.themes.custom.option.colourFooterLabel"
+msgstr "Footer colour"
+
+msgid "plugins.themes.custom.option.colourFooterDescription"
+msgstr "Choose the background colour of the footer"
+
+msgid "plugins.themes.custom.option.colourTextLabel"
+msgstr "Text colour"
+
+msgid "plugins.themes.custom.option.colourTextDescription"
+msgstr "Choose the general text colour"

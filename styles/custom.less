@@ -1,0 +1,54 @@
+
+/********* logo small screen  *************/
+
+& when (@custom-size-logo-ss > 20) {
+	@media only screen and (max-width: 992px) {
+
+		.pkp_site_name_wrapper {
+			height: @custom-size-logo-ss-margin;
+		}
+
+		.pkp_site_name .is_img img {
+			max-height: @custom-size-logo-ss;
+		}
+	}
+}
+
+/*********** logo large screen ***********/
+
+& when (@custom-size-logo-ls > 20) {
+	@media only screen and (min-width: 992px) {
+		.pkp_site_name .is_img img {  
+			height: @custom-size-logo-ls;
+			max-height: @custom-size-logo-ls;
+		}
+	}
+}
+
+/*********** footer **************/
+
+.pkp_brand_footer img {
+	width: 100px;
+}
+
+.pkp_structure_footer_wrapper {
+	background-color: @custom-colour-footer;
+}
+
+// footer text white for dark background
+.pkp_footer_content {
+	color: @custom-colour-text-footer;
+}
+
+.pkp_structure_footer_wrapper {
+	border-top: 1px solid #ddd;
+}
+
+
+
+
+
+
+
+
+
